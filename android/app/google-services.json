@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "994755870898",
-    "project_id": "proyecto-rachi-9ur9fs",
-    "storage_bucket": "proyecto-rachi-9ur9fs.firebasestorage.app"
+    "project_number": "673034950449",
+    "project_id": "rachiaccesorios",
+    "storage_bucket": "rachiaccesorios.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:994755870898:android:0f6842daf4aa5bbcf589ab",
+        "mobilesdk_app_id": "1:673034950449:android:b6fe91089be3e61b5f8210",
         "android_client_info": {
           "package_name": "com.mycompany.proyectorachi"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBEvKL8Ocx5nDXoAIWRSrPRrkyjhJ9JXNQ"
+          "current_key": "AIzaSyAue5xBMN7-H3MkxLHikmg57pugbJUbQ7Q"
         }
       ],
       "services": {
