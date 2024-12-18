@@ -502,7 +502,7 @@ class _UsuarioWidgetState extends State<UsuarioWidget> {
                           await authManager.signOut();
                           GoRouter.of(context).clearRedirectLocation();
 
-                          context.goNamedAuth('Menudeinicio', context.mounted);
+                          context.pushNamedAuth('Iniciodeapp', context.mounted);
                         },
                         text: 'Cerrar Secion',
                         options: FFButtonOptions(
